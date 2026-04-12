@@ -33,7 +33,7 @@ visuals/ → all chart PNGs
 ![Profit Sub-Category](visuals/profit-by-sub-category.png)
 
 ### Monthly Sales Trend
-![Monthly Trend](visuals/montly_sales_trend-3.png)
+![Monthly Trend](visuals/montly_sales_trend.png)
 
 ---
 
