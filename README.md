@@ -27,13 +27,13 @@ visuals/ → all chart PNGs
 ![Profit Heatmap](visuals/profit_by_region_and_category.png)
 
 ### Discount vs Profit
-![Discount vs Profit](visuals/discount-vs-profit.jpg)
+![Discount vs Profit](visuals/discount-vs-profit.png)
 
 ### Profit by Sub-Category
-![Profit Sub-Category](visuals/profit-by-sub-category-2.jpg)
+![Profit Sub-Category](visuals/profit-by-sub-category.png)
 
 ### Monthly Sales Trend
-![Monthly Trend](visuals/montly_sales_trend-3.jpg)
+![Monthly Trend](visuals/montly_sales_trend-3.png)
 
 ---
 
