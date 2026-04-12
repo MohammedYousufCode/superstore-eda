@@ -24,7 +24,7 @@ visuals/ → all chart PNGs
 ## 📊 Key Visualizations
 
 ### Profit by Region and Category
-![Profit Heatmap](visuals/profit_by_region_and_category-2.jpg)
+![Profit Heatmap](visuals/profit_by_region_and_category.png)
 
 ### Discount vs Profit
 ![Discount vs Profit](visuals/discount-vs-profit.jpg)
