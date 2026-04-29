@@ -69,3 +69,11 @@ Python 3 · pandas · numpy · matplotlib · seaborn · Jupyter Notebook
 
 [Sample Superstore — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 9,994 rows · 21 columns · 2014–2017
+
+---
+ 
+## 📄 License
+ 
+This project is licensed under the [MIT License](LICENSE) — © 2025 Mohammed Yousuf.
+ 
+---
